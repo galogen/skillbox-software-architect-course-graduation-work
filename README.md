@@ -2,7 +2,7 @@
 Ссылка на курс: https://go.skillbox.ru/education/course/software-architect
 
 ## Содержание работы
-- ![Бизнес-цели](https://github.com/galogen/skillbox-software-architect-course-graduation-work/tree/main#%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BB%D0%B8)
+- [Бизнес-цели]()
 - Функциональные требования
 - Стейкхолдеры и их интересы
 - Концептуальная архитектура (модель)
