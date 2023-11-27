@@ -1,6 +1,5 @@
 # Выпускная дипломная работа по курсу "Архитектор программного обеспечения" на Skillbox
-Ссылка на курс: https://go.skillbox.ru/education/course/software-architect
-
+Ссылка на курс: https://go.skillbox.ru/education/course/software-architect /
 Текст исходного задания: [задание на дипломную работу](https://docs.google.com/document/d/1iX7SFW2Jkn1yYpjFtVFTm9XTzMSwn7rN/edit?usp=sharing&ouid=110556607196693435853&rtpof=true&sd=true)
 
 ## Содержание работы
